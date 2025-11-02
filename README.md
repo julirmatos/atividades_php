@@ -1,7 +1,6 @@
 # TURMA EAD_ADS2025 - Atividades PHP - LABORATÓRIO DE DESENVOLVIMENTO DE SISTEMAS
 
-[📄 Abrir PDF da atividade](https://github.com/julirmatos/exercicios_canvas/blob/master/La%C3%A7os_repeti%C3%A7%C3%A3o/img/pratica_loop.pdf)
-
+[📄 Abrir PDF da atividade](https://github.com/julirmatos/atividades_php/blob/master/img/atv_fix_desvio.pdf)
 # @julirmatos
 
 # @IFSP-GRU
